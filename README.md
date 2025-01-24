@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neev Sudheer</h1>
 <h3 align="center">A Computer Engineer from India</h3>
 
-- 🌱 I’m currently learning **Java programming language**
+- 🌱 I’m currently learning **Github**
 
 - 📫 How to reach me **neevsudheer09@gmail.com**
 
